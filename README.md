@@ -1,2 +1,2 @@
 # Stat172-Final
-Data Mining &amp; General Linear Modeling final project in R.  Using a comprehensive play-by-play NFL dataset, our stakeholder is a coaching staff of a team who would like to make the decision whether or not to attempt a field goal at any given moment. 
+Data Mining &amp; General Linear Modeling final project in R.  Using a comprehensive play-by-play NFL dataset, our stakeholder is a coaching staff of a team who would like to make the decision whether or not to attempt a field goal at any given moment. The binary predictive variable of interest is whether or not a field goal is made given the situation, so this will tell a coach whether or not they should attempt the field goal.  
