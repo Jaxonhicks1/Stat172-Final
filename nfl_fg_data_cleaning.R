@@ -379,3 +379,11 @@ write_csv(fg_data, output_path)
 
 # Confirmation message
 cat("Saved cleaned modeling dataset to:", output_path, "\n")
+
+
+
+# Note, we are downloading this code as a CSV instead of running it at the top of
+# our other R code because of how long it takes the cleaning code to run (which is 
+# due to the large size of the NFL play by play dataset).
+
+# Please note that Chat-GPT was utilized to help generate part of this cleaning code. 
