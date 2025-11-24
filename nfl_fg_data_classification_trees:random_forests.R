@@ -266,6 +266,7 @@ confint(m11)
 #In games with precipitation, the odds of making the kick are approximately
 #0.77 times as large about a 23% reduction, holding all else constant.
 
+#Test
 
 
 
